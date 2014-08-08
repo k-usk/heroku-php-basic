@@ -1,4 +1,6 @@
-##PHP on heroku
+#PHP on heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 *	heroku上でPHPを動かすための基本セットです。
 *	Procfileでドキュメントルートを指定しています。ドキュメントルートは`/htdocs`です。
